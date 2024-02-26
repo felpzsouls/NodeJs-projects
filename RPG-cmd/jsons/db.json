@@ -3,12 +3,12 @@
     "name": "felpz",
     "lvl": 1,
     "nextLvl": 100,
-    "xp": 0,
+    "xp": 14,
     "maxHp": 30,
     "hp": 30,
-    "atk": 1,
+    "atk": 5,
     "def": 0,
-    "dxt": 5,
+    "dxt": 100,
     "coins": 0
   }
 }

@@ -31,7 +31,7 @@ function start() {
         db.set(`player/def`, 0);
         db.set(`player/dxt`, 5)
         db.set(`player/coins`, 0);
-        act;
+        action();
     })
 }
 
@@ -98,4 +98,18 @@ function game() {
     };
 }
 
-game()
+class play {
+    constructor() {}
+
+    start() {
+        return start()
+    }
+
+    action() {
+        return action()
+    }
+}
+
+module.exports = new play();
+
+game();
