@@ -1,0 +1,14 @@
+{
+  "player": {
+    "name": "felpz",
+    "lvl": 1,
+    "nextLvl": 100,
+    "xp": 0,
+    "maxHp": 30,
+    "hp": 30,
+    "atk": 1,
+    "def": 0,
+    "dxt": 5,
+    "coins": 0
+  }
+}

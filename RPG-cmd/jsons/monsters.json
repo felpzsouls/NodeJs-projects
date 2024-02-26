@@ -1,0 +1,46 @@
+[
+    {
+        "name": "slime",
+        "lvl": 1,
+        "atk": 3,
+        "def": 0,
+        "dxt": 0,
+        "hp": 10,
+        "maxHp": 10,
+        "xp": 5,
+        "coins": 2
+    },
+    {
+        "name": "goblin",
+        "lvl": 1,
+        "atk": 4,
+        "def": 1,
+        "dxt": 4,
+        "hp": 12,
+        "maxHp": 12,
+        "xp": 10,
+        "coins": 3
+    },
+    {
+        "name": "morcego",
+        "lvl": 1,
+        "atk": 3,
+        "def": 0,
+        "dxt": 8,
+        "hp": 8,
+        "maxHp": 8,
+        "xp": 4,
+        "coins": 2
+    },
+    {
+        "name": "rato",
+        "lvl": 1,
+        "atk": 2,
+        "def": 0,
+        "dxt": 2,
+        "hp": 6,
+        "maxHp": 6,
+        "xp": 3,
+        "coins": 1
+    }
+]
