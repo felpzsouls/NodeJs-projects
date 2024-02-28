@@ -20,4 +20,4 @@ io.on('connection', async (socket) => {
     io.emit('chat message', 'seja bem vindo')
 })
 
-server.listen('80', () => console.log('site online'))
+server.listen('80', () => console.log('site online na porta: http://localhost'))
