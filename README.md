@@ -10,7 +10,27 @@ To use the calculator, simply run the simple_calc.bat file
 [Rpg Game](https://github.com/felpzsouls/NodeJs-projects/tree/master/RPG-cmd)
 To play the RPG, make sure the dependencies are installed, and run the game.bat file
 
-[Discord Bot]()
+[Discord Bot](https://github.com/felpzsouls/NodeJs-projects/tree/master/Discord-bot)
+<summary>
+  <details>
+    <summary>How to initialize discord bot</summary>
+    
+  ## How to start discord bot.
+
+  `1.` Fork this project using ```git clone https://github.com/felpzsouls/NodeJs-projects/Discord-bot```
+  
+  `2.` Install the dependecies using `npm install`
+
+  `3.` Paste you bot token and prefix in .env file(you can take this in [Discord Developer Portal](https://discord.com/developers/))
+  
+  ```
+  token=
+  prefix=
+  ```
+
+  `4.` Run the bot using `node .` or `node index.js`
+  </details>
+</summary>
 </details>
 
 <details>
